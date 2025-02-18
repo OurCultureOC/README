@@ -63,12 +63,9 @@
 |[김효환](https://github.com/Hy0hwan)|[장기웅](https://github.com/Jangkiwoong)|
 
 ## 📆 시기
-<br/> 
-- 프로젝트 진행 기간
-<br/>
-    - 2024.2 ~ 2025.2 (6주)
-<br/>
-    <img src="https://github.com/user-attachments/assets/c97ee190-d8ff-4795-a4ba-21a30a432ba5" alt="앱 아이콘" width="100" height="100">
+- 프로젝트 진행 기간<br/>
+- 2024.2 ~ 2025.2 (6주)<br/>
+<img src="https://github.com/user-attachments/assets/c97ee190-d8ff-4795-a4ba-21a30a432ba5" alt="앱 아이콘" width="100" height="100">
 
 
 
